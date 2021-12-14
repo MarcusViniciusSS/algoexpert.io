@@ -5,6 +5,11 @@ namespace AlgoExpert.IO.Array
 {
     public class SortedSquaredArray
     {
+        /// <summary>
+        /// https://www.algoexpert.io/questions/Sorted%20Squared%20Array
+        /// </summary>
+        /// <param name="array"></param>
+        /// <returns></returns>
         public int[] Apply(int[] array)
         {
             for (var i = 0; i < array.Length; i++)
@@ -17,6 +22,11 @@ namespace AlgoExpert.IO.Array
             return array;
         }
         
+        /// <summary>
+        /// https://www.algoexpert.io/questions/Sorted%20Squared%20Array
+        /// </summary>
+        /// <param name="array"></param>
+        /// <returns></returns>
         public int[] ApplyMostPerformace(int[] array)
         {
             var pointerRight = array.Length - 1;
