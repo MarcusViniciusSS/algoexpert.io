@@ -44,6 +44,7 @@ The solutions are development in Csharp(c#).
 | :star: | Tournament Winner | 🟩 | [TournamentWinner.cs](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExpert.IO/Array/TournamentWinner.cs) | array | [test](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExperto.IO.Array.Tests/TournamentWinnerTest.cs)
 | :star: | Non-Constructible Change | 🟩  | [NoConstructibleChange.cs](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExpert.IO/Array/NoConstructibleChange.cs) | array |[test](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExperto.IO.Array.Tests/NoConstructibleChangeTest.cs)
 | :star: | Three Number Sum | 🟦 | [ThreeNumberSum.cs](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExpert.IO/Array/ThreeNumberSum.cs) | array | [test](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExperto.IO.Array.Tests/ThreeNumberSumTest.cs)
+| :star: | Smallest Difference | 🟦 | [SmallestDifference.cs](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExpert.IO/Array/SmallestDifference.cs) | array | [test](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExperto.IO.Array.Tests/SmallestDifferenceTest.cs)
 
 #
 License
