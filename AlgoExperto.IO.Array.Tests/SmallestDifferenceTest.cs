@@ -10,7 +10,7 @@ namespace AlgoExperto.IO.Array.Tests
         {
             var array = new int[] {-1, 5, 10, 20, 28, 3};
             var array2 = new int[] {26,134,135,15,17};
-            var result = new SmallestDifference().GetSmallest(array, array2);
+            var result = new SmallestDifference().GetSmallestBetterSolution(array, array2);
             
             Assert.Equal(new int[2] {28,26}, result);
         }
