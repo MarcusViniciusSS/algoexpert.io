@@ -44,3 +44,9 @@ The solutions are development in Csharp(c#).
 | :star: | Tournament Winner | 🟩 | [TournamentWinner.cs](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExpert.IO/Array/TournamentWinner.cs) | array
 | :star: | Non-Constructible Change | 🟩 | [NoConstructibleChange.cs](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExpert.IO/Array/NoConstructibleChange.cs) | array
 | :star: | Three Number Sum | 🟦 | [ThreeNumberSum.cs](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExpert.IO/Array/ThreeNumberSum.cs) | array
+
+#
+License
+MIT
+
+Copyright (c) 2021-present, Lowpoc (Marcus Vinicius)
