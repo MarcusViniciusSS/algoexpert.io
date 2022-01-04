@@ -46,6 +46,7 @@ The solutions are development in Csharp(c#).
 | :star: | Three Number Sum         | 🟦 | [ThreeNumberSum.cs](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExpert.IO/Array/ThreeNumberSum.cs) | array | [test](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExperto.IO.Array.Tests/ThreeNumberSumTest.cs)
 | :star: | Smallest Difference      | 🟦 | [SmallestDifference.cs](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExpert.IO/Array/SmallestDifference.cs) | array | [test](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExperto.IO.Array.Tests/SmallestDifferenceTest.cs)
 | :star: | MoveElementToEnd         | 🟦 | [MoveElementToEnd.cs](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExpert.IO/Array/MoveElementToEnd.cs) | array | [test](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExperto.IO.Array.Tests/MoveElementToEndTest.cs)
+| :star: | MonotonicArray         | 🟦 | [MonotonicArray.cs](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExpert.IO/Array/MonotonicArray.cs) | array | [test](https://github.com/Lowpoc/algoexpert.io/blob/master/AlgoExperto.IO.Array.Tests/MonotonicArrayTest.cs)
 
 #
 License
