@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configurat
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoExpert.IO.Strings.Tests", "AlgoExpert.IO.Strings.Tests\AlgoExpert.IO.Strings.Tests.csproj", "{9C6C679B-363E-4E92-BA7C-31C520FBAE4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{9FB98AD7-0AF0-420A-B473-56737ECD8364}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FB98AD7-0AF0-420A-B473-56737ECD8364}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FB98AD7-0AF0-420A-B473-56737ECD8364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C6C679B-363E-4E92-BA7C-31C520FBAE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6C679B-363E-4E92-BA7C-31C520FBAE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6C679B-363E-4E92-BA7C-31C520FBAE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6C679B-363E-4E92-BA7C-31C520FBAE4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
